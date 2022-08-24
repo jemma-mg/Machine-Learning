@@ -1,37 +1,33 @@
 '''Codes for basic ML algorithms using python libraries'''
 
-import scipy
 import numpy as np
 import matplotlib.pyplot as plt
 
 
-#Regression
-#Linear Regression Model
+# Regression
+# Linear Regression Model
 
 
-#Polynomial Regression
+# Polynomial Regression
 
 
-
-#Classification
-#Perceptron
-
-
-#KNN
+# Classification
+# Perceptron
 
 
-#Naive Bayes
+# KNN
 
 
-#SVM - Support Vector Machines
+# Naive Bayes
 
 
-
-#Decision Trees
-
-
-#Random Forest
+# SVM - Support Vector Machines
 
 
-#K-Means Clustering
+# Decision Trees
 
+
+# Random Forest
+
+
+# K-Means Clustering
