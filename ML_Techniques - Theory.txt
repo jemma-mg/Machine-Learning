@@ -1,0 +1,16 @@
+1. Linear Regression
+
+y = w0x0 + w1x1 + .... + wnxn = sum(wi * xi) = wT*x = Xw, 
+x0 = dummy feature of ones
+Loss function = Sum Squared Error = (predicted label-actual label)**2
+J(w) = 1/2*sum over 1 to n(wTx[i] - y[i])**2 = 1/2 * (Xw-y)T * (Xw-y)
+Optimization = gradient(loss) = dJ(w)/dw = XTXw - XTy
+for gradient descent - initialze weight vectors to zero, 
+    - weights are updated simultaneously in last step
+    - stop training after a fixed number of iterations 
+    (or) when gradient changes by a very small margin in successive iterations
+    -Gradient descent(1 iter) or Mini Batch Gradient descent(MBGD - n/k iter) or Stochastic Gradient Descent(SGD - n iter)
+dJ(w)/dw[m] = sum over 1 to n(w0+w1x1[i]+....+wmxm[i] - y[i])*xm[i]
+wm(new) = wm - alpha(dJ(w)/dwm)
+w(new) = w(old) - alpha*XT(predicted output - actual output)
+
