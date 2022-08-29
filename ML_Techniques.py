@@ -58,7 +58,7 @@ def loss(features, labels, weights):
     loss = 1/2 * (error.T @ error)  # np.transpose(e) == e.T
     return loss
 
-# Polynomial Regression
+# Polynomial Regression Model
 
 
 ### Classification ###
