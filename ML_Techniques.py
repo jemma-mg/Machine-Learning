@@ -65,7 +65,6 @@ def loss(features, labels, weights):
 
 # Perceptron
 
-
 # KNN
 
 
@@ -73,7 +72,7 @@ def loss(features, labels, weights):
 
 
 # SVM - Support Vector Machines
-
+# y = Xw + b
 
 # Decision Trees
 
