@@ -69,7 +69,9 @@ def loss(features, labels, weights):
 
 
 # Naive Bayes
-
+# 1.Gaussian NB
+# 2.Bernoulli NB
+# 3.Multinomial NB
 
 # SVM - Support Vector Machines
 # y = Xw + b
