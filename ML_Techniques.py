@@ -76,10 +76,20 @@ def loss(features, labels, weights):
 # SVM - Support Vector Machines
 # y = Xw + b
 
+# CART - Classification and Regression Trees
 # Decision Trees
 
 
 # Random Forest
+# Bagging
+# Boosting
+# AdaBoost
+# GradientBoost
+# XGBoost
 
 
 # K-Means Clustering
+
+
+# ANN
+# MLP - Multi Layer Perceptron
