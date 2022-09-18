@@ -1,0 +1,1392 @@
+<svg width="1256" height="919" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 1030.19 1202">
+<g id="graph0" class="graph" transform="translate(4.000029296875027,1198) scale(1)">
+<title>sklearn</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-1198 1026.19,-1198 1026.19,4 -4,4"/>
+<!-- sklearn -->
+<g id="node1" class="node">
+<title>sklearn</title>
+<ellipse fill="rgb(0, 0, 0)" stroke="black" cx="481.67" cy="-616.5" rx="52.3" ry="22.76" stroke-width="0"/>
+<text text-anchor="middle" x="481.67" y="-610.5" font-family="Helvetica,Arial,sans-serif" font-size="20" fill="rgb(255, 255, 0)">sklearn</text>
+</g>
+<!-- pipeline -->
+<g id="node46" class="node">
+<title>pipeline</title>
+<path fill="rgb(255, 0, 0)" stroke="black" stroke-width="0" d="M608.89,-1039.5C608.89,-1039.5 655.87,-1039.5 655.87,-1039.5 660.2,-1039.5 664.54,-1043.83 664.54,-1048.17 664.54,-1048.17 664.54,-1056.83 664.54,-1056.83 664.54,-1061.17 660.2,-1065.5 655.87,-1065.5 655.87,-1065.5 608.89,-1065.5 608.89,-1065.5 604.55,-1065.5 600.22,-1061.17 600.22,-1056.83 600.22,-1056.83 600.22,-1048.17 600.22,-1048.17 600.22,-1043.83 604.55,-1039.5 608.89,-1039.5"/>
+<text text-anchor="middle" x="632.38" y="-1048" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(255, 255, 0)">pipeline</text>
+</g>
+<!-- sklearn&#45;&gt;pipeline -->
+<g id="edge45" class="edge">
+<title>sklearn-&gt;pipeline</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M485.92,-639.19C494.46,-695.02 520.34,-842.8 569.83,-956.5 583.65,-988.27 607.34,-1021.46 620.94,-1039.29" stroke-width="2"/>
+</g>
+<!-- n122 -->
+<g id="node51" class="node">
+<title>n122</title>
+<ellipse fill="rgb(176, 176, 187)" stroke="black" cx="632.38" cy="-938.5" rx="9" ry="9" stroke-width="0"/>
+</g>
+<!-- sklearn&#45;&gt;n122 -->
+<g id="edge50" class="edge">
+<title>sklearn-&gt;n122</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M484.4,-639.47C489.33,-691.03 507.41,-817.8 569.83,-899.5 584.26,-918.4 610.69,-930.57 623.71,-935.71" stroke-width="2"/>
+</g>
+<!-- neural_network -->
+<g id="node62" class="node">
+<title>neural_network</title>
+<path fill="rgb(0, 0, 255)" stroke="black" stroke-width="0" d="M585.98,-863.5C585.98,-863.5 678.78,-863.5 678.78,-863.5 683.11,-863.5 687.44,-867.83 687.44,-872.17 687.44,-872.17 687.44,-880.83 687.44,-880.83 687.44,-885.17 683.11,-889.5 678.78,-889.5 678.78,-889.5 585.98,-889.5 585.98,-889.5 581.65,-889.5 577.31,-885.17 577.31,-880.83 577.31,-880.83 577.31,-872.17 577.31,-872.17 577.31,-867.83 581.65,-863.5 585.98,-863.5"/>
+<text text-anchor="middle" x="632.38" y="-872" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(238, 238, 238)">neural_network</text>
+</g>
+<!-- sklearn&#45;&gt;neural_network -->
+<g id="edge61" class="edge">
+<title>sklearn-&gt;neural_network</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M491.08,-638.78C505.01,-674.48 534.82,-746.13 569.83,-801.5 584.59,-824.85 605.7,-849.06 618.96,-863.45" stroke-width="2"/>
+</g>
+<!-- feature_extraction -->
+<g id="node65" class="node">
+<title>feature_extraction</title>
+<path fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" d="M578.49,-765.5C578.49,-765.5 686.26,-765.5 686.26,-765.5 690.59,-765.5 694.93,-769.83 694.93,-774.17 694.93,-774.17 694.93,-782.83 694.93,-782.83 694.93,-787.17 690.59,-791.5 686.26,-791.5 686.26,-791.5 578.49,-791.5 578.49,-791.5 574.16,-791.5 569.83,-787.17 569.83,-782.83 569.83,-782.83 569.83,-774.17 569.83,-774.17 569.83,-769.83 574.16,-765.5 578.49,-765.5"/>
+<text text-anchor="middle" x="632.38" y="-774" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="indigo">feature_extraction</text>
+</g>
+<!-- sklearn&#45;&gt;feature_extraction -->
+<g id="edge64" class="edge">
+<title>sklearn-&gt;feature_extraction</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M502.12,-637.68C533.29,-671.64 593.57,-737.31 619.28,-765.32" stroke-width="2"/>
+</g>
+<!-- n124 -->
+<g id="node88" class="node">
+<title>n124</title>
+<ellipse fill="rgb(176, 176, 187)" stroke="black" cx="632.38" cy="-678.5" rx="9" ry="9" stroke-width="0"/>
+</g>
+<!-- sklearn&#45;&gt;n124 -->
+<g id="edge87" class="edge">
+<title>sklearn-&gt;n124</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M519.82,-631.99C554.91,-646.62 604.92,-667.47 623.78,-675.33" stroke-width="2"/>
+</g>
+<!-- compose -->
+<g id="node96" class="node">
+<title>compose</title>
+<path fill="rgb(0, 0, 255)" stroke="black" stroke-width="0" d="M606.38,-603.5C606.38,-603.5 658.37,-603.5 658.37,-603.5 662.7,-603.5 667.04,-607.83 667.04,-612.17 667.04,-612.17 667.04,-620.83 667.04,-620.83 667.04,-625.17 662.7,-629.5 658.37,-629.5 658.37,-629.5 606.38,-629.5 606.38,-629.5 602.05,-629.5 597.72,-625.17 597.72,-620.83 597.72,-620.83 597.72,-612.17 597.72,-612.17 597.72,-607.83 602.05,-603.5 606.38,-603.5"/>
+<text text-anchor="middle" x="632.38" y="-612" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(238, 238, 238)">compose</text>
+</g>
+<!-- sklearn&#45;&gt;compose -->
+<g id="edge95" class="edge">
+<title>sklearn-&gt;compose</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M533.85,-616.5C554.85,-616.5 578.6,-616.5 597.4,-616.5" stroke-width="2"/>
+</g>
+<!-- tree -->
+<g id="node101" class="node">
+<title>tree</title>
+<path fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" d="M614.04,-486.5C614.04,-486.5 650.71,-486.5 650.71,-486.5 655.04,-486.5 659.38,-490.83 659.38,-495.17 659.38,-495.17 659.38,-503.83 659.38,-503.83 659.38,-508.17 655.04,-512.5 650.71,-512.5 650.71,-512.5 614.04,-512.5 614.04,-512.5 609.71,-512.5 605.38,-508.17 605.38,-503.83 605.38,-503.83 605.38,-495.17 605.38,-495.17 605.38,-490.83 609.71,-486.5 614.04,-486.5"/>
+<text text-anchor="middle" x="632.38" y="-495" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="indigo">tree</text>
+</g>
+<!-- sklearn&#45;&gt;tree -->
+<g id="edge100" class="edge">
+<title>sklearn-&gt;tree</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M507.9,-596.65C538.39,-572.66 588.84,-532.97 614.81,-512.54" stroke-width="2"/>
+</g>
+<!-- decomposition -->
+<g id="node105" class="node">
+<title>decomposition</title>
+<path fill="rgb(255, 0, 0)" stroke="black" stroke-width="0" d="M588.88,-437.5C588.88,-437.5 675.87,-437.5 675.87,-437.5 680.21,-437.5 684.54,-441.83 684.54,-446.17 684.54,-446.17 684.54,-454.83 684.54,-454.83 684.54,-459.17 680.21,-463.5 675.87,-463.5 675.87,-463.5 588.88,-463.5 588.88,-463.5 584.55,-463.5 580.22,-459.17 580.22,-454.83 580.22,-454.83 580.22,-446.17 580.22,-446.17 580.22,-441.83 584.55,-437.5 588.88,-437.5"/>
+<text text-anchor="middle" x="632.38" y="-446" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(255, 255, 0)">decomposition</text>
+</g>
+<!-- sklearn&#45;&gt;decomposition -->
+<g id="edge104" class="edge">
+<title>sklearn-&gt;decomposition</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M491.66,-594.11C504.76,-563.97 531.77,-510.35 569.83,-477.5 576.28,-471.93 584.05,-467.35 591.87,-463.63" stroke-width="2"/>
+</g>
+<!-- n123 -->
+<g id="node107" class="node">
+<title>n123</title>
+<ellipse fill="rgb(176, 176, 187)" stroke="black" cx="632.38" cy="-402.5" rx="9" ry="9" stroke-width="0"/>
+</g>
+<!-- sklearn&#45;&gt;n123 -->
+<g id="edge106" class="edge">
+<title>sklearn-&gt;n123</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M487.49,-594.01C496.86,-555.28 521.06,-475.62 569.83,-428.5 585.18,-413.67 610.26,-406.73 623.15,-403.99" stroke-width="2"/>
+</g>
+<!-- cluster -->
+<g id="node123" class="node">
+<title>cluster</title>
+<path fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" d="M613.05,-334.5C613.05,-334.5 651.7,-334.5 651.7,-334.5 656.04,-334.5 660.37,-338.83 660.37,-343.17 660.37,-343.17 660.37,-351.83 660.37,-351.83 660.37,-356.17 656.04,-360.5 651.7,-360.5 651.7,-360.5 613.05,-360.5 613.05,-360.5 608.72,-360.5 604.39,-356.17 604.39,-351.83 604.39,-351.83 604.39,-343.17 604.39,-343.17 604.39,-338.83 608.72,-334.5 613.05,-334.5"/>
+<text text-anchor="middle" x="632.38" y="-343" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="indigo">cluster</text>
+</g>
+<!-- sklearn&#45;&gt;cluster -->
+<g id="edge122" class="edge">
+<title>sklearn-&gt;cluster</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M486.08,-593.9C493.79,-549.32 516.27,-448.8 569.83,-384.5 579,-373.48 592.36,-364.9 604.28,-358.78" stroke-width="2"/>
+</g>
+<!-- datasets -->
+<g id="node125" class="node">
+<title>datasets</title>
+<path fill="rgb(255, 0, 0)" stroke="black" stroke-width="0" d="M609.3,-266.5C609.3,-266.5 655.45,-266.5 655.45,-266.5 659.79,-266.5 664.12,-270.83 664.12,-275.17 664.12,-275.17 664.12,-283.83 664.12,-283.83 664.12,-288.17 659.79,-292.5 655.45,-292.5 655.45,-292.5 609.3,-292.5 609.3,-292.5 604.97,-292.5 600.64,-288.17 600.64,-283.83 600.64,-283.83 600.64,-275.17 600.64,-275.17 600.64,-270.83 604.97,-266.5 609.3,-266.5"/>
+<text text-anchor="middle" x="632.38" y="-275" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(255, 255, 0)">datasets</text>
+</g>
+<!-- sklearn&#45;&gt;datasets -->
+<g id="edge124" class="edge">
+<title>sklearn-&gt;datasets</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M484.65,-593.62C490.1,-541.58 509.25,-412.17 569.83,-325.5 579.38,-311.83 594.28,-300.54 607.02,-292.57" stroke-width="2"/>
+</g>
+<!-- svm -->
+<g id="node2" class="node">
+<title>svm</title>
+<path fill="rgb(255, 0, 0)" stroke="black" stroke-width="0" d="M315.97,-1053.5C315.97,-1053.5 352.63,-1053.5 352.63,-1053.5 356.97,-1053.5 361.3,-1057.83 361.3,-1062.17 361.3,-1062.17 361.3,-1070.83 361.3,-1070.83 361.3,-1075.17 356.97,-1079.5 352.63,-1079.5 352.63,-1079.5 315.97,-1079.5 315.97,-1079.5 311.63,-1079.5 307.3,-1075.17 307.3,-1070.83 307.3,-1070.83 307.3,-1062.17 307.3,-1062.17 307.3,-1057.83 311.63,-1053.5 315.97,-1053.5"/>
+<text text-anchor="middle" x="334.3" y="-1062" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(255, 255, 0)">svm</text>
+</g>
+<!-- svm&#45;&gt;sklearn -->
+<g id="edge1" class="edge">
+<title>svm-&gt;sklearn</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M341.91,-1053.17C353.46,-1029.5 377.62,-978.4 393.52,-933.5 431.83,-825.36 463.71,-691.61 475.64,-639.13" stroke-width="2"/>
+</g>
+<!-- SVR -->
+<g id="node3" class="node">
+<title>SVR</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="162.43,-1173.5 162.43,-1193.5 216.43,-1193.5 216.43,-1173.5 162.43,-1173.5"/>
+<text text-anchor="middle" x="189.43" y="-1180.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">SVR</text>
+</g>
+<!-- SVR&#45;&gt;svm -->
+<g id="edge2" class="edge">
+<title>SVR-&gt;svm</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M216.45,-1175.71C224.08,-1172.81 232.22,-1169.08 239.08,-1164.5 275.2,-1140.39 308.07,-1100.31 323.7,-1079.67" stroke-width="2"/>
+</g>
+<!-- SVC -->
+<g id="node4" class="node">
+<title>SVC</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="162.43,-1134.5 162.43,-1154.5 216.43,-1154.5 216.43,-1134.5 162.43,-1134.5"/>
+<text text-anchor="middle" x="189.43" y="-1141.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">SVC</text>
+</g>
+<!-- SVC&#45;&gt;svm -->
+<g id="edge3" class="edge">
+<title>SVC-&gt;svm</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M216.57,-1135.32C223.97,-1132.45 231.95,-1129.08 239.08,-1125.5 266.5,-1111.71 296.2,-1092.29 314.78,-1079.56" stroke-width="2"/>
+</g>
+<!-- NuSVR -->
+<g id="node5" class="node">
+<title>NuSVR</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="162.43,-1095.5 162.43,-1115.5 216.43,-1115.5 216.43,-1095.5 162.43,-1095.5"/>
+<text text-anchor="middle" x="189.43" y="-1102.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">NuSVR</text>
+</g>
+<!-- NuSVR&#45;&gt;svm -->
+<g id="edge4" class="edge">
+<title>NuSVR-&gt;svm</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M216.63,-1098.35C242.41,-1091.31 281.54,-1080.63 307.26,-1073.61" stroke-width="2"/>
+</g>
+<!-- NuSVC -->
+<g id="node6" class="node">
+<title>NuSVC</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="162.43,-1056.5 162.43,-1076.5 216.43,-1076.5 216.43,-1056.5 162.43,-1056.5"/>
+<text text-anchor="middle" x="189.43" y="-1063.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">NuSVC</text>
+</g>
+<!-- NuSVC&#45;&gt;svm -->
+<g id="edge5" class="edge">
+<title>NuSVC-&gt;svm</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M216.63,-1066.5C242.41,-1066.5 281.54,-1066.5 307.26,-1066.5" stroke-width="2"/>
+</g>
+<!-- LinearSVR -->
+<g id="node7" class="node">
+<title>LinearSVR</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="158.65,-1017.5 158.65,-1037.5 220.2,-1037.5 220.2,-1017.5 158.65,-1017.5"/>
+<text text-anchor="middle" x="189.43" y="-1024.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">LinearSVR</text>
+</g>
+<!-- LinearSVR&#45;&gt;svm -->
+<g id="edge6" class="edge">
+<title>LinearSVR-&gt;svm</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M220.38,-1035.68C246.07,-1042.69 282.72,-1052.69 307.23,-1059.38" stroke-width="2"/>
+</g>
+<!-- LinearSVC -->
+<g id="node8" class="node">
+<title>LinearSVC</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="158.65,-978.5 158.65,-998.5 220.2,-998.5 220.2,-978.5 158.65,-978.5"/>
+<text text-anchor="middle" x="189.43" y="-985.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">LinearSVC</text>
+</g>
+<!-- LinearSVC&#45;&gt;svm -->
+<g id="edge7" class="edge">
+<title>LinearSVC-&gt;svm</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M217.04,-998.53C224.29,-1001.51 232.08,-1004.94 239.08,-1008.5 265.95,-1022.18 295.3,-1040.9 313.98,-1053.33" stroke-width="2"/>
+</g>
+<!-- n119 -->
+<g id="node12" class="node">
+<title>n119</title>
+<ellipse fill="rgb(176, 176, 187)" stroke="black" cx="334.3" cy="-773.5" rx="9" ry="9" stroke-width="0"/>
+</g><g id="node9" class="node">
+<title>dummy</title>
+<path fill="rgb(0, 0, 255)" stroke="black" stroke-width="0" d="M312.05,-897.5C312.05,-897.5 356.55,-897.5 356.55,-897.5 360.89,-897.5 365.22,-901.83 365.22,-906.17 365.22,-906.17 365.22,-914.83 365.22,-914.83 365.22,-919.17 360.89,-923.5 356.55,-923.5 356.55,-923.5 312.05,-923.5 312.05,-923.5 307.72,-923.5 303.38,-919.17 303.38,-914.83 303.38,-914.83 303.38,-906.17 303.38,-906.17 303.38,-901.83 307.72,-897.5 312.05,-897.5"/>
+<text text-anchor="middle" x="334.3" y="-906" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(238, 238, 238)">dummy</text>
+</g>
+<!-- n119&#45;&gt;sklearn -->
+<g id="edge11" class="edge">
+<title>n119-&gt;sklearn</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M341.18,-767.15C361.26,-745.47 427.72,-673.69 461.14,-637.6" stroke-width="2"/>
+</g><g id="edge8" class="edge">
+<title>dummy-&gt;sklearn</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M341.74,-897.49C364.43,-851.59 440.92,-696.91 469.65,-638.81" stroke-width="2"/>
+</g>
+<!-- preprocessing -->
+<g id="node13" class="node">
+<title>preprocessing</title>
+<path fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" d="M148.44,-855.5C148.44,-855.5 230.41,-855.5 230.41,-855.5 234.75,-855.5 239.08,-859.83 239.08,-864.17 239.08,-864.17 239.08,-872.83 239.08,-872.83 239.08,-877.17 234.75,-881.5 230.41,-881.5 230.41,-881.5 148.44,-881.5 148.44,-881.5 144.11,-881.5 139.77,-877.17 139.77,-872.83 139.77,-872.83 139.77,-864.17 139.77,-864.17 139.77,-859.83 144.11,-855.5 148.44,-855.5"/>
+<text text-anchor="middle" x="189.43" y="-864" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="indigo">preprocessing</text>
+</g><g id="node10" class="node">
+<title>DummyRegressor</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="145.04,-939.5 145.04,-959.5 233.81,-959.5 233.81,-939.5 145.04,-939.5"/>
+<text text-anchor="middle" x="189.43" y="-946.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">DummyRegressor</text>
+</g>
+<!-- preprocessing&#45;&gt;n119 -->
+<g id="edge12" class="edge">
+<title>preprocessing-&gt;n119</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M209.99,-855.49C242.4,-833.94 305.7,-791.86 326.5,-778.02" stroke-width="2"/>
+</g><g id="edge9" class="edge">
+<title>DummyRegressor-&gt;dummy</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M227.22,-939.46C250.87,-933 281.2,-924.72 303.36,-918.67" stroke-width="2"/>
+</g>
+<!-- add_dummy_feature -->
+<g id="node14" class="node">
+<title>add_dummy_feature</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="2.51,-1170.5 2.51,-1190.5 101.26,-1190.5 101.26,-1170.5 2.51,-1170.5"/>
+<text text-anchor="middle" x="51.89" y="-1177.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">add_dummy_feature</text>
+</g><g id="node11" class="node">
+<title>DummyClassifier</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="145.87,-900.5 145.87,-920.5 232.98,-920.5 232.98,-900.5 145.87,-900.5"/>
+<text text-anchor="middle" x="189.43" y="-907.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">DummyClassifier</text>
+</g>
+<!-- add_dummy_feature&#45;&gt;preprocessing -->
+<g id="edge13" class="edge">
+<title>add_dummy_feature-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M93.49,-1170.26C97.4,-1167.92 100.95,-1165.04 103.77,-1161.5 179.24,-1066.83 68.36,-989.26 139.77,-891.5 142.64,-887.58 146.35,-884.3 150.44,-881.56" stroke-width="2"/>
+</g><g id="edge10" class="edge">
+<title>DummyClassifier-&gt;dummy</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M233.29,-910.5C255.82,-910.5 282.87,-910.5 303.16,-910.5" stroke-width="2"/>
+</g>
+<!-- StandardScaler -->
+<g id="node15" class="node">
+<title>StandardScaler</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="13.62,-1131.5 13.62,-1151.5 90.15,-1151.5 90.15,-1131.5 13.62,-1131.5"/>
+<text text-anchor="middle" x="51.89" y="-1138.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">StandardScaler</text>
+</g>
+<!-- StandardScaler&#45;&gt;preprocessing -->
+<g id="edge14" class="edge">
+<title>StandardScaler-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M90.16,-1132.98C95.35,-1130.37 100.14,-1126.96 103.77,-1122.5 169.43,-1041.97 77.56,-974.72 139.77,-891.5 142.68,-887.61 146.42,-884.35 150.52,-881.63" stroke-width="2"/>
+</g>
+<!-- PolynomialFeature -->
+<g id="node16" class="node">
+<title>PolynomialFeature</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="5.84,-1092.5 5.84,-1112.5 97.94,-1112.5 97.94,-1092.5 5.84,-1092.5"/>
+<text text-anchor="middle" x="51.89" y="-1099.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">PolynomialFeature</text>
+</g>
+<!-- PolynomialFeature&#45;&gt;preprocessing -->
+<g id="edge15" class="edge">
+<title>PolynomialFeature-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M92.81,-1092.4C96.95,-1090.03 100.74,-1087.11 103.77,-1083.5 159.66,-1017.06 86.73,-960.23 139.77,-891.5 142.74,-887.65 146.51,-884.42 150.63,-881.71" stroke-width="2"/>
+</g>
+<!-- OrdinalEncoder -->
+<g id="node17" class="node">
+<title>OrdinalEncoder</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="11.96,-1053.5 11.96,-1073.5 91.82,-1073.5 91.82,-1053.5 11.96,-1053.5"/>
+<text text-anchor="middle" x="51.89" y="-1060.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">OrdinalEncoder</text>
+</g>
+<!-- OrdinalEncoder&#45;&gt;preprocessing -->
+<g id="edge16" class="edge">
+<title>OrdinalEncoder-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M91.9,-1053.68C96.35,-1051.26 100.47,-1048.25 103.77,-1044.5 149.96,-992.09 95.84,-945.81 139.77,-891.5 142.95,-887.58 146.95,-884.29 151.28,-881.53" stroke-width="2"/>
+</g>
+<!-- OneHotEncoder -->
+<g id="node18" class="node">
+<title>OneHotEncoder</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="11.4,-1014.5 11.4,-1034.5 92.37,-1034.5 92.37,-1014.5 11.4,-1014.5"/>
+<text text-anchor="middle" x="51.89" y="-1021.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">OneHotEncoder</text>
+</g>
+<!-- OneHotEncoder&#45;&gt;preprocessing -->
+<g id="edge17" class="edge">
+<title>OneHotEncoder-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M91.64,-1014.44C96.13,-1012.06 100.33,-1009.12 103.77,-1005.5 140.36,-966.98 104.84,-931.53 139.77,-891.5 143.09,-887.7 147.17,-884.48 151.55,-881.76" stroke-width="2"/>
+</g>
+<!-- Normalizer -->
+<g id="node19" class="node">
+<title>Normalizer</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="21.12,-975.5 21.12,-995.5 82.65,-995.5 82.65,-975.5 21.12,-975.5"/>
+<text text-anchor="middle" x="51.89" y="-982.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">Normalizer</text>
+</g>
+<!-- Normalizer&#45;&gt;preprocessing -->
+<g id="edge18" class="edge">
+<title>Normalizer-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M82.75,-978.63C90.26,-975.82 97.86,-971.91 103.77,-966.5 131.07,-941.56 113.55,-917.57 139.77,-891.5 143.62,-887.68 148.22,-884.41 153.03,-881.64" stroke-width="2"/>
+</g>
+<!-- MinMaxScaler -->
+<g id="node20" class="node">
+<title>MinMaxScaler</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="13.89,-936.5 13.89,-956.5 89.88,-956.5 89.88,-936.5 13.89,-936.5"/>
+<text text-anchor="middle" x="51.89" y="-943.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">MinMaxScaler</text>
+</g>
+<!-- MinMaxScaler&#45;&gt;preprocessing -->
+<g id="edge19" class="edge">
+<title>MinMaxScaler-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M86.18,-936.42C92.26,-933.93 98.38,-930.97 103.77,-927.5 122.81,-915.26 121.27,-904.53 139.77,-891.5 144.97,-887.84 150.84,-884.5 156.65,-881.58" stroke-width="2"/>
+</g>
+<!-- MaxAbsScaler -->
+<g id="node21" class="node">
+<title>MaxAbsScaler</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="14.17,-897.5 14.17,-917.5 89.6,-917.5 89.6,-897.5 14.17,-897.5"/>
+<text text-anchor="middle" x="51.89" y="-904.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">MaxAbsScaler</text>
+</g>
+<!-- MaxAbsScaler&#45;&gt;preprocessing -->
+<g id="edge20" class="edge">
+<title>MaxAbsScaler-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M87.79,-897.46C104.66,-892.6 125.1,-886.72 143.15,-881.53" stroke-width="2"/>
+</g>
+<!-- MultilabelBinarizer -->
+<g id="node22" class="node">
+<title>MultilabelBinarizer</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="4.46,-858.5 4.46,-878.5 99.32,-878.5 99.32,-858.5 4.46,-858.5"/>
+<text text-anchor="middle" x="51.89" y="-865.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">MultilabelBinarizer</text>
+</g>
+<!-- MultilabelBinarizer&#45;&gt;preprocessing -->
+<g id="edge21" class="edge">
+<title>MultilabelBinarizer-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M99.53,-868.5C112.4,-868.5 126.39,-868.5 139.39,-868.5" stroke-width="2"/>
+</g>
+<!-- LabelEncoder -->
+<g id="node23" class="node">
+<title>LabelEncoder</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="15.85,-819.5 15.85,-839.5 87.93,-839.5 87.93,-819.5 15.85,-819.5"/>
+<text text-anchor="middle" x="51.89" y="-826.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">LabelEncoder</text>
+</g>
+<!-- LabelEncoder&#45;&gt;preprocessing -->
+<g id="edge22" class="edge">
+<title>LabelEncoder-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M87.79,-839.54C104.66,-844.4 125.1,-850.28 143.15,-855.47" stroke-width="2"/>
+</g>
+<!-- LabelBinarizer -->
+<g id="node24" class="node">
+<title>LabelBinarizer</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="13.9,-780.5 13.9,-800.5 89.87,-800.5 89.87,-780.5 13.9,-780.5"/>
+<text text-anchor="middle" x="51.89" y="-787.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">LabelBinarizer</text>
+</g>
+<!-- LabelBinarizer&#45;&gt;preprocessing -->
+<g id="edge23" class="edge">
+<title>LabelBinarizer-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M81.92,-800.6C89.2,-803.49 96.9,-806.85 103.77,-810.5 128.64,-823.69 155.06,-842.69 171.64,-855.31" stroke-width="2"/>
+</g>
+<!-- KBinsDiscritizer -->
+<g id="node25" class="node">
+<title>KBinsDiscritizer</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="10,-741.5 10,-761.5 93.77,-761.5 93.77,-741.5 10,-741.5"/>
+<text text-anchor="middle" x="51.89" y="-748.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">KBinsDiscritizer</text>
+</g>
+<!-- KBinsDiscritizer&#45;&gt;preprocessing -->
+<g id="edge24" class="edge">
+<title>KBinsDiscritizer-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M85.3,-761.54C91.72,-764.26 98.19,-767.56 103.77,-771.5 137.39,-795.19 166.42,-834.94 180.08,-855.42" stroke-width="2"/>
+</g>
+<!-- FunctionTransformer -->
+<g id="node26" class="node">
+<title>FunctionTransformer</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="1.12,-702.5 1.12,-722.5 102.65,-722.5 102.65,-702.5 1.12,-702.5"/>
+<text text-anchor="middle" x="51.89" y="-709.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">FunctionTransformer</text>
+</g>
+<!-- FunctionTransformer&#45;&gt;preprocessing -->
+<g id="edge25" class="edge">
+<title>FunctionTransformer-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M87.41,-722.57C93.24,-725.22 98.96,-728.49 103.77,-732.5 145.67,-767.38 173.03,-828.57 183.56,-855.34" stroke-width="2"/>
+</g>
+<!-- Binarizer -->
+<g id="node27" class="node">
+<title>Binarizer</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="24.89,-663.5 24.89,-683.5 78.89,-683.5 78.89,-663.5 24.89,-663.5"/>
+<text text-anchor="middle" x="51.89" y="-670.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">Binarizer</text>
+</g>
+<!-- Binarizer&#45;&gt;preprocessing -->
+<g id="edge26" class="edge">
+<title>Binarizer-&gt;preprocessing</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M79.05,-679.63C87.71,-682.67 96.88,-687.11 103.77,-693.5 154.03,-740.07 177.81,-822.82 185.51,-855.09" stroke-width="2"/>
+</g>
+<!-- dummy -->
+
+<!-- dummy&#45;&gt;sklearn -->
+
+<!-- DummyRegressor -->
+
+<!-- DummyRegressor&#45;&gt;dummy -->
+
+<!-- DummyClassifier -->
+
+<!-- DummyClassifier&#45;&gt;dummy -->
+
+<!-- n121 -->
+<g id="node33" class="node">
+<title>n121</title>
+<ellipse fill="rgb(176, 176, 187)" stroke="black" cx="334.3" cy="-576.5" rx="9" ry="9" stroke-width="0"/>
+</g><g id="node28" class="node">
+<title>feature_selection</title>
+<path fill="rgb(255, 0, 0)" stroke="black" stroke-width="0" d="M283.75,-624.5C283.75,-624.5 384.86,-624.5 384.86,-624.5 389.19,-624.5 393.52,-628.83 393.52,-633.17 393.52,-633.17 393.52,-641.83 393.52,-641.83 393.52,-646.17 389.19,-650.5 384.86,-650.5 384.86,-650.5 283.75,-650.5 283.75,-650.5 279.41,-650.5 275.08,-646.17 275.08,-641.83 275.08,-641.83 275.08,-633.17 275.08,-633.17 275.08,-628.83 279.41,-624.5 283.75,-624.5"/>
+<text text-anchor="middle" x="334.3" y="-633" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(255, 255, 0)">feature_selection</text>
+</g>
+<!-- n121&#45;&gt;sklearn -->
+<g id="edge32" class="edge">
+<title>n121-&gt;sklearn</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M343.12,-578.65C360.57,-583.45 403.82,-595.35 437.21,-604.54" stroke-width="2"/>
+</g><g id="edge27" class="edge">
+<title>feature_selection-&gt;sklearn</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M393.59,-629.08C406.23,-627.25 419.47,-625.34 431.71,-623.57" stroke-width="2"/>
+</g>
+<!-- ensemble -->
+<g id="node34" class="node">
+<title>ensemble</title>
+<path fill="rgb(0, 0, 255)" stroke="black" stroke-width="0" d="M161.77,-543.5C161.77,-543.5 217.08,-543.5 217.08,-543.5 221.42,-543.5 225.75,-547.83 225.75,-552.17 225.75,-552.17 225.75,-560.83 225.75,-560.83 225.75,-565.17 221.42,-569.5 217.08,-569.5 217.08,-569.5 161.77,-569.5 161.77,-569.5 157.44,-569.5 153.1,-565.17 153.1,-560.83 153.1,-560.83 153.1,-552.17 153.1,-552.17 153.1,-547.83 157.44,-543.5 161.77,-543.5"/>
+<text text-anchor="middle" x="189.43" y="-552" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(238, 238, 238)">ensemble</text>
+</g><g id="node29" class="node">
+<title>VarianceThreshold</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="143.11,-705.5 143.11,-725.5 235.74,-725.5 235.74,-705.5 143.11,-705.5"/>
+<text text-anchor="middle" x="189.43" y="-712.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">VarianceThreshold</text>
+</g>
+<!-- ensemble&#45;&gt;n121 -->
+<g id="edge33" class="edge">
+<title>ensemble-&gt;n121</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M226.11,-561.5C259.34,-566.15 306.47,-572.74 325.19,-575.36" stroke-width="2"/>
+</g><g id="edge28" class="edge">
+<title>VarianceThreshold-&gt;feature_selection</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M218.86,-705.43C225.6,-702.76 232.68,-699.72 239.08,-696.5 266.5,-682.71 296.2,-663.29 314.78,-650.56" stroke-width="2"/>
+</g>
+<!-- Bagging -->
+<g id="node35" class="node">
+<title>Bagging</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="24.89,-624.5 24.89,-644.5 78.89,-644.5 78.89,-624.5 24.89,-624.5"/>
+<text text-anchor="middle" x="51.89" y="-631.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">Bagging</text>
+</g><g id="node30" class="node">
+<title>SelectKBest</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="156.71,-666.5 156.71,-686.5 222.14,-686.5 222.14,-666.5 156.71,-666.5"/>
+<text text-anchor="middle" x="189.43" y="-673.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">SelectKBest</text>
+</g>
+<!-- Bagging&#45;&gt;ensemble -->
+<g id="edge34" class="edge">
+<title>Bagging-&gt;ensemble</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M79.01,-627.16C87.29,-624.21 96.24,-620.34 103.77,-615.5 122.81,-603.26 121.27,-592.53 139.77,-579.5 144.97,-575.84 150.84,-572.5 156.65,-569.58" stroke-width="2"/>
+</g><g id="edge29" class="edge">
+<title>SelectKBest-&gt;feature_selection</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M222.49,-667.75C241.08,-662.67 264.85,-656.18 285.61,-650.52" stroke-width="2"/>
+</g>
+<!-- AdaBoost -->
+<g id="node36" class="node">
+<title>AdaBoost</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="23.89,-585.5 23.89,-605.5 79.89,-605.5 79.89,-585.5 23.89,-585.5"/>
+<text text-anchor="middle" x="51.89" y="-592.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">AdaBoost</text>
+</g><g id="node31" class="node">
+<title>chi2</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="162.43,-627.5 162.43,-647.5 216.43,-647.5 216.43,-627.5 162.43,-627.5"/>
+<text text-anchor="middle" x="189.43" y="-634.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">chi2</text>
+</g>
+<!-- AdaBoost&#45;&gt;ensemble -->
+<g id="edge35" class="edge">
+<title>AdaBoost-&gt;ensemble</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M79.99,-587.7C100.93,-581.68 130.08,-573.29 152.88,-566.73" stroke-width="2"/>
+</g><g id="edge30" class="edge">
+<title>chi2-&gt;feature_selection</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M216.63,-637.5C232.99,-637.5 254.71,-637.5 274.98,-637.5" stroke-width="2"/>
+</g>
+<!-- GradientBoosting -->
+<g id="node37" class="node">
+<title>GradientBoosting</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="8.33,-546.5 8.33,-566.5 95.44,-566.5 95.44,-546.5 8.33,-546.5"/>
+<text text-anchor="middle" x="51.89" y="-553.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">GradientBoosting</text>
+</g><g id="node32" class="node">
+<title>RFE</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="162.43,-588.5 162.43,-608.5 216.43,-608.5 216.43,-588.5 162.43,-588.5"/>
+<text text-anchor="middle" x="189.43" y="-595.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">RFE</text>
+</g>
+<!-- GradientBoosting&#45;&gt;ensemble -->
+<g id="edge36" class="edge">
+<title>GradientBoosting-&gt;ensemble</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M95.77,-556.5C114.23,-556.5 135.55,-556.5 153.08,-556.5" stroke-width="2"/>
+</g><g id="edge31" class="edge">
+<title>RFE-&gt;feature_selection</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M216.63,-605.65C235.89,-610.91 262.59,-618.2 285.59,-624.48" stroke-width="2"/>
+</g>
+<!-- RandomForest -->
+<g id="node38" class="node">
+<title>RandomForest</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="14.44,-507.5 14.44,-527.5 89.33,-527.5 89.33,-507.5 14.44,-507.5"/>
+<text text-anchor="middle" x="51.89" y="-514.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">RandomForest</text>
+</g>
+<!-- RandomForest&#45;&gt;ensemble -->
+<g id="edge37" class="edge">
+<title>RandomForest-&gt;ensemble</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M87.79,-527.54C107.71,-533.28 132.64,-540.45 152.7,-546.22" stroke-width="2"/>
+</g>
+<!-- Voting -->
+<g id="node39" class="node">
+<title>Voting</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="24.89,-468.5 24.89,-488.5 78.89,-488.5 78.89,-468.5 24.89,-468.5"/>
+<text text-anchor="middle" x="51.89" y="-475.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">Voting</text>
+</g>
+<!-- Voting&#45;&gt;ensemble -->
+<g id="edge38" class="edge">
+<title>Voting-&gt;ensemble</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M79,-486.42C87.28,-489.53 96.23,-493.56 103.77,-498.5 122.7,-510.9 121.16,-521.63 139.77,-534.5 144.5,-537.77 149.79,-540.75 155.1,-543.38" stroke-width="2"/>
+</g>
+<!-- HistGradientBoosting -->
+<g id="node40" class="node">
+<title>HistGradientBoosting</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="0,-429.5 0,-449.5 103.77,-449.5 103.77,-429.5 0,-429.5"/>
+<text text-anchor="middle" x="51.89" y="-436.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">HistGradientBoosting</text>
+</g>
+<!-- HistGradientBoosting&#45;&gt;ensemble -->
+<g id="edge39" class="edge">
+<title>HistGradientBoosting-&gt;ensemble</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M88.58,-449.52C94.09,-452.15 99.39,-455.43 103.77,-459.5 130.86,-484.67 113.33,-508.66 139.77,-534.5 143.62,-538.26 148.22,-541.44 153.03,-544.12" stroke-width="2"/>
+</g>
+<!-- feature_selection -->
+
+<!-- feature_selection&#45;&gt;sklearn -->
+
+<!-- VarianceThreshold -->
+
+<!-- VarianceThreshold&#45;&gt;feature_selection -->
+
+<!-- SelectKBest -->
+
+<!-- SelectKBest&#45;&gt;feature_selection -->
+
+<!-- chi2 -->
+
+<!-- chi2&#45;&gt;feature_selection -->
+
+<!-- RFE -->
+
+<!-- RFE&#45;&gt;feature_selection -->
+
+<!-- impute -->
+<g id="node41" class="node">
+<title>impute</title>
+<path fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" d="M314.14,-462.5C314.14,-462.5 354.46,-462.5 354.46,-462.5 358.8,-462.5 363.13,-466.83 363.13,-471.17 363.13,-471.17 363.13,-479.83 363.13,-479.83 363.13,-484.17 358.8,-488.5 354.46,-488.5 354.46,-488.5 314.14,-488.5 314.14,-488.5 309.8,-488.5 305.47,-484.17 305.47,-479.83 305.47,-479.83 305.47,-471.17 305.47,-471.17 305.47,-466.83 309.8,-462.5 314.14,-462.5"/>
+<text text-anchor="middle" x="334.3" y="-471" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="indigo">impute</text>
+</g>
+<!-- impute&#45;&gt;sklearn -->
+<g id="edge40" class="edge">
+<title>impute-&gt;sklearn</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M348.72,-488.51C374.02,-513.06 428.98,-566.36 459.38,-595.85" stroke-width="2"/>
+</g>
+<!-- IterativeImputer -->
+<g id="node42" class="node">
+<title>IterativeImputer</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="148.94,-504.5 148.94,-524.5 229.91,-524.5 229.91,-504.5 148.94,-504.5"/>
+<text text-anchor="middle" x="189.43" y="-511.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">IterativeImputer</text>
+</g>
+<!-- IterativeImputer&#45;&gt;impute -->
+<g id="edge41" class="edge">
+<title>IterativeImputer-&gt;impute</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M227.22,-504.46C251.53,-497.82 282.9,-489.26 305.2,-483.17" stroke-width="2"/>
+</g>
+<!-- KNNImputer -->
+<g id="node43" class="node">
+<title>KNNImputer</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="154.77,-465.5 154.77,-485.5 224.09,-485.5 224.09,-465.5 154.77,-465.5"/>
+<text text-anchor="middle" x="189.43" y="-472.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">KNNImputer</text>
+</g>
+<!-- KNNImputer&#45;&gt;impute -->
+<g id="edge42" class="edge">
+<title>KNNImputer-&gt;impute</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M224.29,-475.5C249.04,-475.5 282.21,-475.5 305.44,-475.5" stroke-width="2"/>
+</g>
+<!-- SimpleImputer -->
+<g id="node44" class="node">
+<title>SimpleImputer</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="151.43,-426.5 151.43,-446.5 227.42,-446.5 227.42,-426.5 151.43,-426.5"/>
+<text text-anchor="middle" x="189.43" y="-433.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">SimpleImputer</text>
+</g>
+<!-- SimpleImputer&#45;&gt;impute -->
+<g id="edge43" class="edge">
+<title>SimpleImputer-&gt;impute</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M227.22,-446.54C251.53,-453.18 282.9,-461.74 305.2,-467.83" stroke-width="2"/>
+</g>
+<!-- MissingIndicator -->
+<g id="node45" class="node">
+<title>MissingIndicator</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="147.26,-387.5 147.26,-407.5 231.59,-407.5 231.59,-387.5 147.26,-387.5"/>
+<text text-anchor="middle" x="189.43" y="-394.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">MissingIndicator</text>
+</g>
+<!-- MissingIndicator&#45;&gt;impute -->
+<g id="edge44" class="edge">
+<title>MissingIndicator-&gt;impute</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M217.04,-407.53C224.29,-410.51 232.08,-413.94 239.08,-417.5 265.95,-431.18 295.3,-449.9 313.98,-462.33" stroke-width="2"/>
+</g>
+<!-- make_union -->
+<g id="node47" class="node">
+<title>make_union</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="765.08,-1120.5 765.08,-1140.5 830.51,-1140.5 830.51,-1120.5 765.08,-1120.5"/>
+<text text-anchor="middle" x="797.79" y="-1127.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">make_union</text>
+</g>
+<!-- pipeline&#45;&gt;make_union -->
+<g id="edge46" class="edge">
+<title>pipeline-&gt;make_union</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M651.65,-1065.57C670.68,-1078.68 701.73,-1098.73 730.93,-1111.5 741.72,-1116.22 754.02,-1120.13 765.04,-1123.16" stroke-width="2"/>
+</g>
+<!-- make_pipeline -->
+<g id="node48" class="node">
+<title>make_pipeline</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="760.36,-1081.5 760.36,-1101.5 835.23,-1101.5 835.23,-1081.5 760.36,-1081.5"/>
+<text text-anchor="middle" x="797.79" y="-1088.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">make_pipeline</text>
+</g>
+<!-- pipeline&#45;&gt;make_pipeline -->
+<g id="edge47" class="edge">
+<title>pipeline-&gt;make_pipeline</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M664.89,-1060.02C692.15,-1066.53 731.6,-1075.94 760.25,-1082.78" stroke-width="2"/>
+</g>
+<!-- Pipeline -->
+<g id="node49" class="node">
+<title>Pipeline</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="770.79,-1042.5 770.79,-1062.5 824.79,-1062.5 824.79,-1042.5 770.79,-1042.5"/>
+<text text-anchor="middle" x="797.79" y="-1049.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">Pipeline</text>
+</g>
+<!-- pipeline&#45;&gt;Pipeline -->
+<g id="edge48" class="edge">
+<title>pipeline-&gt;Pipeline</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M664.89,-1052.5C695.68,-1052.5 742,-1052.5 770.76,-1052.5" stroke-width="2"/>
+</g>
+<!-- FeatureUnion -->
+<g id="node50" class="node">
+<title>FeatureUnion</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="762.3,-1003.5 762.3,-1023.5 833.29,-1023.5 833.29,-1003.5 762.3,-1003.5"/>
+<text text-anchor="middle" x="797.79" y="-1010.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">FeatureUnion</text>
+</g>
+<!-- pipeline&#45;&gt;FeatureUnion -->
+<g id="edge49" class="edge">
+<title>pipeline-&gt;FeatureUnion</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M664.89,-1044.98C692.8,-1038.32 733.48,-1028.61 762.27,-1021.74" stroke-width="2"/>
+</g>
+<!-- metrics -->
+<g id="node52" class="node">
+<title>metrics</title>
+<path fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" d="M776.38,-958.5C776.38,-958.5 819.2,-958.5 819.2,-958.5 823.53,-958.5 827.87,-962.83 827.87,-967.17 827.87,-967.17 827.87,-975.83 827.87,-975.83 827.87,-980.17 823.53,-984.5 819.2,-984.5 819.2,-984.5 776.38,-984.5 776.38,-984.5 772.05,-984.5 767.72,-980.17 767.72,-975.83 767.72,-975.83 767.72,-967.17 767.72,-967.17 767.72,-962.83 772.05,-958.5 776.38,-958.5"/>
+<text text-anchor="middle" x="797.79" y="-967" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="indigo">metrics</text>
+</g>
+<!-- n122&#45;&gt;metrics -->
+<g id="edge51" class="edge">
+<title>n122-&gt;metrics</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M641.26,-940.09C663.77,-944.64 729.17,-957.84 767.62,-965.61" stroke-width="2"/>
+</g>
+<!-- ConfusioMatrixDisplay -->
+<g id="node53" class="node">
+<title>ConfusioMatrixDisplay</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="905.93,-1156.5 905.93,-1176.5 1016.92,-1176.5 1016.92,-1156.5 905.93,-1156.5"/>
+<text text-anchor="middle" x="961.43" y="-1163.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">ConfusioMatrixDisplay</text>
+</g>
+<!-- metrics&#45;&gt;ConfusioMatrixDisplay -->
+<g id="edge52" class="edge">
+<title>metrics-&gt;ConfusioMatrixDisplay</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M827.91,-975.24C840.85,-978.36 855.26,-984.06 864.66,-994.5 911.4,-1046.42 853.19,-1096.25 900.66,-1147.5 903.99,-1151.09 907.99,-1154.01 912.33,-1156.38" stroke-width="2"/>
+</g>
+<!-- confusion_matrix -->
+<g id="node54" class="node">
+<title>confusion_matrix</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="918.16,-1117.5 918.16,-1137.5 1004.7,-1137.5 1004.7,-1117.5 918.16,-1117.5"/>
+<text text-anchor="middle" x="961.43" y="-1124.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">confusion_matrix</text>
+</g>
+<!-- metrics&#45;&gt;confusion_matrix -->
+<g id="edge53" class="edge">
+<title>metrics-&gt;confusion_matrix</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M827.9,-975.65C840.68,-978.85 854.96,-984.5 864.66,-994.5 901.66,-1032.63 863.12,-1070.89 900.66,-1108.5 905.5,-1113.36 911.58,-1116.97 918,-1119.66" stroke-width="2"/>
+</g>
+<!-- roc_curve -->
+<g id="node55" class="node">
+<title>roc_curve</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="933.44,-1078.5 933.44,-1098.5 989.41,-1098.5 989.41,-1078.5 933.44,-1078.5"/>
+<text text-anchor="middle" x="961.43" y="-1085.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">roc_curve</text>
+</g>
+<!-- metrics&#45;&gt;roc_curve -->
+<g id="edge54" class="edge">
+<title>metrics-&gt;roc_curve</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M827.94,-976.47C840.43,-979.83 854.46,-985.38 864.66,-994.5 892.22,-1019.15 872.75,-1045.24 900.66,-1069.5 909.78,-1077.43 922.23,-1082.05 933.4,-1084.75" stroke-width="2"/>
+</g>
+<!-- precision_recall_curve -->
+<g id="node56" class="node">
+<title>precision_recall_curve</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="907.89,-1039.5 907.89,-1059.5 1014.96,-1059.5 1014.96,-1039.5 907.89,-1039.5"/>
+<text text-anchor="middle" x="961.43" y="-1046.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">precision_recall_curve</text>
+</g>
+<!-- metrics&#45;&gt;precision_recall_curve -->
+<g id="edge55" class="edge">
+<title>metrics-&gt;precision_recall_curve</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M827.94,-978.6C839.88,-982.27 853.48,-987.48 864.66,-994.5 883.82,-1006.53 881.33,-1018.74 900.66,-1030.5 906.52,-1034.07 913.11,-1037.03 919.73,-1039.47" stroke-width="2"/>
+</g>
+<!-- roc_auc_score -->
+<g id="node57" class="node">
+<title>roc_auc_score</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="924.55,-1000.5 924.55,-1020.5 998.3,-1020.5 998.3,-1000.5 924.55,-1000.5"/>
+<text text-anchor="middle" x="961.43" y="-1007.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">roc_auc_score</text>
+</g>
+<!-- metrics&#45;&gt;roc_auc_score -->
+<g id="edge56" class="edge">
+<title>metrics-&gt;roc_auc_score</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M828.06,-978.56C855.08,-985.08 895.29,-994.78 924.3,-1001.78" stroke-width="2"/>
+</g>
+<!-- recall_score -->
+<g id="node58" class="node">
+<title>recall_score</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="929.28,-961.5 929.28,-981.5 993.58,-981.5 993.58,-961.5 929.28,-961.5"/>
+<text text-anchor="middle" x="961.43" y="-968.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">recall_score</text>
+</g>
+<!-- metrics&#45;&gt;recall_score -->
+<g id="edge57" class="edge">
+<title>metrics-&gt;recall_score</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M828.06,-971.5C856.63,-971.5 899.94,-971.5 929.17,-971.5" stroke-width="2"/>
+</g>
+<!-- precision_score -->
+<g id="node59" class="node">
+<title>precision_score</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="922.05,-922.5 922.05,-942.5 1000.8,-942.5 1000.8,-922.5 922.05,-922.5"/>
+<text text-anchor="middle" x="961.43" y="-929.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">precision_score</text>
+</g>
+<!-- metrics&#45;&gt;precision_score -->
+<g id="edge58" class="edge">
+<title>metrics-&gt;precision_score</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M828.06,-964.44C854.35,-958.09 893.14,-948.74 921.93,-941.79" stroke-width="2"/>
+</g>
+<!-- f1_score -->
+<g id="node60" class="node">
+<title>f1_score</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="934.43,-883.5 934.43,-903.5 988.43,-903.5 988.43,-883.5 934.43,-883.5"/>
+<text text-anchor="middle" x="961.43" y="-890.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">f1_score</text>
+</g>
+<!-- metrics&#45;&gt;f1_score -->
+<g id="edge59" class="edge">
+<title>metrics-&gt;f1_score</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M823.35,-958.44C835.8,-951.73 851.12,-943.33 864.66,-935.5 880.89,-926.11 883.66,-921.41 900.66,-913.5 911.37,-908.51 923.68,-904.17 934.34,-900.82" stroke-width="2"/>
+</g>
+<!-- accuracy_score -->
+<g id="node61" class="node">
+<title>accuracy_score</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="922.62,-844.5 922.62,-864.5 1000.24,-864.5 1000.24,-844.5 922.62,-844.5"/>
+<text text-anchor="middle" x="961.43" y="-851.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">accuracy_score</text>
+</g>
+<!-- metrics&#45;&gt;accuracy_score -->
+<g id="edge60" class="edge">
+<title>metrics-&gt;accuracy_score</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M827.91,-959.78C840.25,-953.81 854.17,-945.65 864.66,-935.5 887.28,-913.61 876.18,-894.3 900.66,-874.5 907.04,-869.34 914.81,-865.48 922.61,-862.61" stroke-width="2"/>
+</g>
+<!-- MLPClassifier -->
+<g id="node63" class="node">
+<title>MLPClassifier</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="760.35,-905.5 760.35,-925.5 835.24,-925.5 835.24,-905.5 760.35,-905.5"/>
+<text text-anchor="middle" x="797.79" y="-912.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">MLPClassifier</text>
+</g>
+<!-- neural_network&#45;&gt;MLPClassifier -->
+<g id="edge62" class="edge">
+<title>neural_network-&gt;MLPClassifier</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M687.79,-889.49C711.56,-895.16 738.81,-901.66 760.12,-906.75" stroke-width="2"/>
+</g>
+<!-- MLPRegressor -->
+<g id="node64" class="node">
+<title>MLPRegressor</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="759.52,-866.5 759.52,-886.5 836.07,-886.5 836.07,-866.5 759.52,-866.5"/>
+<text text-anchor="middle" x="797.79" y="-873.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">MLPRegressor</text>
+</g>
+<!-- neural_network&#45;&gt;MLPRegressor -->
+<g id="edge63" class="edge">
+<title>neural_network-&gt;MLPRegressor</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M687.79,-876.5C711.28,-876.5 738.17,-876.5 759.37,-876.5" stroke-width="2"/>
+</g>
+<!-- TfidVectorizer -->
+<g id="node66" class="node">
+<title>TfidVectorizer</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="760.09,-827.5 760.09,-847.5 835.5,-847.5 835.5,-827.5 760.09,-827.5"/>
+<text text-anchor="middle" x="797.79" y="-834.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">TfidVectorizer</text>
+</g>
+<!-- feature_extraction&#45;&gt;TfidVectorizer -->
+<g id="edge65" class="edge">
+<title>feature_extraction-&gt;TfidVectorizer</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M662.94,-791.6C682.12,-799.85 707.76,-810.44 730.93,-818.5 740.26,-821.75 750.46,-824.89 759.99,-827.65" stroke-width="2"/>
+</g>
+<!-- HashingVectorizer -->
+<g id="node67" class="node">
+<title>HashingVectorizer</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="752.03,-788.5 752.03,-808.5 843.55,-808.5 843.55,-788.5 752.03,-788.5"/>
+<text text-anchor="middle" x="797.79" y="-795.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">HashingVectorizer</text>
+</g>
+<!-- feature_extraction&#45;&gt;HashingVectorizer -->
+<g id="edge66" class="edge">
+<title>feature_extraction-&gt;HashingVectorizer</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M695.16,-786.06C714.05,-788.37 734.45,-790.87 751.99,-793.02" stroke-width="2"/>
+</g>
+<!-- CountVectorizer -->
+<g id="node68" class="node">
+<title>CountVectorizer</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="756.47,-749.5 756.47,-769.5 839.11,-769.5 839.11,-749.5 756.47,-749.5"/>
+<text text-anchor="middle" x="797.79" y="-756.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">CountVectorizer</text>
+</g>
+<!-- feature_extraction&#45;&gt;CountVectorizer -->
+<g id="edge67" class="edge">
+<title>feature_extraction-&gt;CountVectorizer</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M695.16,-771.32C715.58,-768.94 737.78,-766.36 756.2,-764.22" stroke-width="2"/>
+</g>
+<!-- n120 -->
+<g id="node69" class="node">
+<title>n120</title>
+<ellipse fill="rgb(176, 176, 187)" stroke="black" cx="334.3" cy="-339.5" rx="9" ry="9" stroke-width="0"/>
+</g>
+<!-- n120&#45;&gt;sklearn -->
+<g id="edge68" class="edge">
+<title>n120-&gt;sklearn</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M339.34,-347.2C358.28,-383.28 438.63,-536.38 468.99,-594.24" stroke-width="2"/>
+</g>
+<!-- linear_model -->
+<g id="node70" class="node">
+<title>linear_model</title>
+<path fill="rgb(255, 0, 0)" stroke="black" stroke-width="0" d="M150.52,-231.5C150.52,-231.5 228.33,-231.5 228.33,-231.5 232.66,-231.5 237,-235.83 237,-240.17 237,-240.17 237,-248.83 237,-248.83 237,-253.17 232.66,-257.5 228.33,-257.5 228.33,-257.5 150.52,-257.5 150.52,-257.5 146.19,-257.5 141.86,-253.17 141.86,-248.83 141.86,-248.83 141.86,-240.17 141.86,-240.17 141.86,-235.83 146.19,-231.5 150.52,-231.5"/>
+<text text-anchor="middle" x="189.43" y="-240" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(255, 255, 0)">linear_model</text>
+</g>
+<!-- linear_model&#45;&gt;n120 -->
+<g id="edge69" class="edge">
+<title>linear_model-&gt;n120</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M209.99,-257.51C242.4,-279.06 305.7,-321.14 326.5,-334.98" stroke-width="2"/>
+</g>
+<!-- LogisticRegression -->
+<g id="node71" class="node">
+<title>LogisticRegression</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="5.28,-390.5 5.28,-410.5 98.49,-410.5 98.49,-390.5 5.28,-390.5"/>
+<text text-anchor="middle" x="51.89" y="-397.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">LogisticRegression</text>
+</g>
+<!-- LogisticRegression&#45;&gt;linear_model -->
+<g id="edge70" class="edge">
+<title>LogisticRegression-&gt;linear_model</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M89.01,-390.45C94.28,-388.04 99.4,-385.09 103.77,-381.5 146.13,-346.73 173.25,-284.9 183.64,-257.82" stroke-width="2"/>
+</g>
+<!-- RidgeClassifier -->
+<g id="node72" class="node">
+<title>RidgeClassifier</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="12.78,-351.5 12.78,-371.5 90.99,-371.5 90.99,-351.5 12.78,-351.5"/>
+<text text-anchor="middle" x="51.89" y="-358.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">RidgeClassifier</text>
+</g>
+<!-- RidgeClassifier&#45;&gt;linear_model -->
+<g id="edge71" class="edge">
+<title>RidgeClassifier-&gt;linear_model</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M87.19,-351.4C92.98,-348.95 98.74,-346 103.77,-342.5 137.73,-318.87 166.61,-278.58 180.16,-257.79" stroke-width="2"/>
+</g>
+<!-- RidgeClassifierCV -->
+<g id="node73" class="node">
+<title>RidgeClassifierCV</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="5.83,-312.5 5.83,-332.5 97.94,-332.5 97.94,-312.5 5.83,-312.5"/>
+<text text-anchor="middle" x="51.89" y="-319.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">RidgeClassifierCV</text>
+</g>
+<!-- RidgeClassifierCV&#45;&gt;linear_model -->
+<g id="edge72" class="edge">
+<title>RidgeClassifierCV-&gt;linear_model</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M83.57,-312.47C90.36,-309.86 97.43,-306.83 103.77,-303.5 129.16,-290.19 155.88,-270.47 172.35,-257.55" stroke-width="2"/>
+</g>
+<!-- SGDClassifier -->
+<g id="node74" class="node">
+<title>SGDClassifier</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="14.72,-273.5 14.72,-293.5 89.05,-293.5 89.05,-273.5 14.72,-273.5"/>
+<text text-anchor="middle" x="51.89" y="-280.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">SGDClassifier</text>
+</g>
+<!-- SGDClassifier&#45;&gt;linear_model -->
+<g id="edge73" class="edge">
+<title>SGDClassifier-&gt;linear_model</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M87.79,-273.46C104.66,-268.6 125.1,-262.72 143.15,-257.53" stroke-width="2"/>
+</g>
+<!-- Perceptron -->
+<g id="node75" class="node">
+<title>Perceptron</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="22.23,-234.5 22.23,-254.5 81.54,-254.5 81.54,-234.5 22.23,-234.5"/>
+<text text-anchor="middle" x="51.89" y="-241.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">Perceptron</text>
+</g>
+<!-- Perceptron&#45;&gt;linear_model -->
+<g id="edge74" class="edge">
+<title>Perceptron-&gt;linear_model</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M81.63,-244.5C99.04,-244.5 121.65,-244.5 141.59,-244.5" stroke-width="2"/>
+</g>
+<!-- LinearRegressor -->
+<g id="node76" class="node">
+<title>LinearRegressor</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="10.84,-195.5 10.84,-215.5 92.93,-215.5 92.93,-195.5 10.84,-195.5"/>
+<text text-anchor="middle" x="51.89" y="-202.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">LinearRegressor</text>
+</g>
+<!-- LinearRegressor&#45;&gt;linear_model -->
+<g id="edge75" class="edge">
+<title>LinearRegressor-&gt;linear_model</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M87.79,-215.54C104.66,-220.4 125.1,-226.28 143.15,-231.47" stroke-width="2"/>
+</g>
+<!-- SGDRegressor -->
+<g id="node77" class="node">
+<title>SGDRegressor</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="13.89,-156.5 13.89,-176.5 89.88,-176.5 89.88,-156.5 13.89,-156.5"/>
+<text text-anchor="middle" x="51.89" y="-163.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">SGDRegressor</text>
+</g>
+<!-- SGDRegressor&#45;&gt;linear_model -->
+<g id="edge76" class="edge">
+<title>SGDRegressor-&gt;linear_model</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M84.3,-176.51C90.98,-179.27 97.82,-182.6 103.77,-186.5 122.7,-198.9 121.16,-209.63 139.77,-222.5 144.5,-225.77 149.79,-228.75 155.1,-231.38" stroke-width="2"/>
+</g>
+<!-- Ridge -->
+<g id="node78" class="node">
+<title>Ridge</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="24.89,-117.5 24.89,-137.5 78.89,-137.5 78.89,-117.5 24.89,-117.5"/>
+<text text-anchor="middle" x="51.89" y="-124.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">Ridge</text>
+</g>
+<!-- Ridge&#45;&gt;linear_model -->
+<g id="edge77" class="edge">
+<title>Ridge-&gt;linear_model</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M79.06,-133.62C87.72,-136.66 96.89,-141.1 103.77,-147.5 130.86,-172.67 113.33,-196.66 139.77,-222.5 143.22,-225.87 147.27,-228.78 151.55,-231.27" stroke-width="2"/>
+</g>
+<!-- RidgeCV -->
+<g id="node79" class="node">
+<title>RidgeCV</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="24.89,-78.5 24.89,-98.5 78.89,-98.5 78.89,-78.5 24.89,-78.5"/>
+<text text-anchor="middle" x="51.89" y="-85.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">RidgeCV</text>
+</g>
+<!-- RidgeCV&#45;&gt;linear_model -->
+<g id="edge78" class="edge">
+<title>RidgeCV-&gt;linear_model</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M79.07,-93.91C87.93,-96.9 97.23,-101.49 103.77,-108.5 140.03,-147.34 104.5,-182.77 139.77,-222.5 142.85,-225.97 146.58,-228.92 150.59,-231.42" stroke-width="2"/>
+</g>
+<!-- Lasso -->
+<g id="node80" class="node">
+<title>Lasso</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="24.89,-39.5 24.89,-59.5 78.89,-59.5 78.89,-39.5 24.89,-39.5"/>
+<text text-anchor="middle" x="51.89" y="-46.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">Lasso</text>
+</g>
+<!-- Lasso&#45;&gt;linear_model -->
+<g id="edge79" class="edge">
+<title>Lasso-&gt;linear_model</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M79.09,-54.56C88.07,-57.52 97.44,-62.18 103.77,-69.5 149.5,-122.31 95.38,-168.56 139.77,-222.5 142.6,-225.94 146.08,-228.86 149.86,-231.33" stroke-width="2"/>
+</g>
+<!-- LassoCV -->
+<g id="node81" class="node">
+<title>LassoCV</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="24.89,-0.5 24.89,-20.5 78.89,-20.5 78.89,-0.5 24.89,-0.5"/>
+<text text-anchor="middle" x="51.89" y="-7.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">LassoCV</text>
+</g>
+<!-- LassoCV&#45;&gt;linear_model -->
+<g id="edge80" class="edge">
+<title>LassoCV-&gt;linear_model</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M78.99,-14.78C88.07,-17.54 97.52,-22.06 103.77,-29.5 159.91,-96.3 85.91,-153.85 139.77,-222.5 142.52,-226 145.95,-228.96 149.7,-231.46" stroke-width="2"/>
+</g>
+<!-- naive_bayes -->
+<g id="node82" class="node">
+<title>naive_bayes</title>
+<path fill="rgb(0, 0, 255)" stroke="black" stroke-width="0" d="M297.9,-131.5C297.9,-131.5 370.7,-131.5 370.7,-131.5 375.04,-131.5 379.37,-135.83 379.37,-140.17 379.37,-140.17 379.37,-148.83 379.37,-148.83 379.37,-153.17 375.04,-157.5 370.7,-157.5 370.7,-157.5 297.9,-157.5 297.9,-157.5 293.57,-157.5 289.23,-153.17 289.23,-148.83 289.23,-148.83 289.23,-140.17 289.23,-140.17 289.23,-135.83 293.57,-131.5 297.9,-131.5"/>
+<text text-anchor="middle" x="334.3" y="-140" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(238, 238, 238)">naive_bayes</text>
+</g>
+<!-- naive_bayes&#45;&gt;sklearn -->
+<g id="edge81" class="edge">
+<title>naive_bayes-&gt;sklearn</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M339.82,-157.78C349.8,-187.18 374.34,-260.05 393.52,-321.5 425.11,-422.69 460.11,-544.32 474.24,-593.85" stroke-width="2"/>
+</g>
+<!-- BernoulliNB -->
+<g id="node83" class="node">
+<title>BernoulliNB</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="155.59,-192.5 155.59,-212.5 223.26,-212.5 223.26,-192.5 155.59,-192.5"/>
+<text text-anchor="middle" x="189.43" y="-199.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">BernoulliNB</text>
+</g>
+<!-- BernoulliNB&#45;&gt;naive_bayes -->
+<g id="edge82" class="edge">
+<title>BernoulliNB-&gt;naive_bayes</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M216.47,-192.44C223.8,-189.58 231.76,-186.44 239.08,-183.5 260.1,-175.04 283.66,-165.29 301.96,-157.66" stroke-width="2"/>
+</g>
+<!-- CategoricalNB -->
+<g id="node84" class="node">
+<title>CategoricalNB</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="151.44,-153.5 151.44,-173.5 227.42,-173.5 227.42,-153.5 151.44,-153.5"/>
+<text text-anchor="middle" x="189.43" y="-160.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">CategoricalNB</text>
+</g>
+<!-- CategoricalNB&#45;&gt;naive_bayes -->
+<g id="edge83" class="edge">
+<title>CategoricalNB-&gt;naive_bayes</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M227.59,-158.56C246.44,-156.05 269.47,-152.99 289.21,-150.36" stroke-width="2"/>
+</g>
+<!-- ComplementNB -->
+<g id="node85" class="node">
+<title>ComplementNB</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="148.65,-114.5 148.65,-134.5 230.2,-134.5 230.2,-114.5 148.65,-114.5"/>
+<text text-anchor="middle" x="189.43" y="-121.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">ComplementNB</text>
+</g>
+<!-- ComplementNB&#45;&gt;naive_bayes -->
+<g id="edge84" class="edge">
+<title>ComplementNB-&gt;naive_bayes</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M230.22,-130.07C248.56,-132.64 270.37,-135.69 289.2,-138.33" stroke-width="2"/>
+</g>
+<!-- GaussianNB -->
+<g id="node86" class="node">
+<title>GaussianNB</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="156.15,-75.5 156.15,-95.5 222.7,-95.5 222.7,-75.5 156.15,-75.5"/>
+<text text-anchor="middle" x="189.43" y="-82.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">GaussianNB</text>
+</g>
+<!-- GaussianNB&#45;&gt;naive_bayes -->
+<g id="edge85" class="edge">
+<title>GaussianNB-&gt;naive_bayes</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M215.18,-95.66C222.84,-98.81 231.31,-102.3 239.08,-105.5 260.03,-114.14 283.58,-123.89 301.9,-131.48" stroke-width="2"/>
+</g>
+<!-- MultinomialNB -->
+<g id="node87" class="node">
+<title>MultinomialNB</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="149.48,-36.5 149.48,-56.5 229.37,-56.5 229.37,-36.5 149.48,-36.5"/>
+<text text-anchor="middle" x="189.43" y="-43.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">MultinomialNB</text>
+</g>
+<!-- MultinomialNB&#45;&gt;naive_bayes -->
+<g id="edge86" class="edge">
+<title>MultinomialNB-&gt;naive_bayes</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M218.91,-56.53C225.72,-59.38 232.82,-62.74 239.08,-66.5 270.76,-85.52 302.9,-114.72 320.24,-131.47" stroke-width="2"/>
+</g>
+<!-- neighbours -->
+<g id="node89" class="node">
+<title>neighbours</title>
+<path fill="rgb(255, 0, 0)" stroke="black" stroke-width="0" d="M765.13,-704.5C765.13,-704.5 830.46,-704.5 830.46,-704.5 834.79,-704.5 839.12,-708.83 839.12,-713.17 839.12,-713.17 839.12,-721.83 839.12,-721.83 839.12,-726.17 834.79,-730.5 830.46,-730.5 830.46,-730.5 765.13,-730.5 765.13,-730.5 760.8,-730.5 756.46,-726.17 756.46,-721.83 756.46,-721.83 756.46,-713.17 756.46,-713.17 756.46,-708.83 760.8,-704.5 765.13,-704.5"/>
+<text text-anchor="middle" x="797.79" y="-713" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(255, 255, 0)">neighbours</text>
+</g>
+<!-- n124&#45;&gt;neighbours -->
+<g id="edge88" class="edge">
+<title>n124-&gt;neighbours</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M641.26,-680.38C661.66,-685.25 717.32,-698.53 756.19,-707.81" stroke-width="2"/>
+</g>
+<!-- BallTree -->
+<g id="node90" class="node">
+<title>BallTree</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="934.43,-805.5 934.43,-825.5 988.43,-825.5 988.43,-805.5 934.43,-805.5"/>
+<text text-anchor="middle" x="961.43" y="-812.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">BallTree</text>
+</g>
+<!-- neighbours&#45;&gt;BallTree -->
+<g id="edge89" class="edge">
+<title>neighbours-&gt;BallTree</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M839.28,-726.91C848.23,-730.23 857.24,-734.65 864.66,-740.5 887.89,-758.82 877.17,-778.51 900.66,-796.5 910.34,-803.92 922.99,-808.48 934.16,-811.27" stroke-width="2"/>
+</g>
+<!-- KDTree -->
+<g id="node91" class="node">
+<title>KDTree</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="934.43,-766.5 934.43,-786.5 988.43,-786.5 988.43,-766.5 934.43,-766.5"/>
+<text text-anchor="middle" x="961.43" y="-773.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">KDTree</text>
+</g>
+<!-- neighbours&#45;&gt;KDTree -->
+<g id="edge90" class="edge">
+<title>neighbours-&gt;KDTree</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M838.4,-730.57C847.12,-733.66 856.25,-737.06 864.66,-740.5 881.03,-747.2 884.19,-751.03 900.66,-757.5 911.5,-761.76 923.72,-765.78 934.27,-769.01" stroke-width="2"/>
+</g>
+<!-- KNeighborsClassifier -->
+<g id="node92" class="node">
+<title>KNeighborsClassifier</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="909.82,-727.5 909.82,-747.5 1013.03,-747.5 1013.03,-727.5 909.82,-727.5"/>
+<text text-anchor="middle" x="961.43" y="-734.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">KNeighborsClassifier</text>
+</g>
+<!-- neighbours&#45;&gt;KNeighborsClassifier -->
+<g id="edge91" class="edge">
+<title>neighbours-&gt;KNeighborsClassifier</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M839.16,-722.5C860.48,-725.13 886.86,-728.4 909.57,-731.21" stroke-width="2"/>
+</g>
+<!-- KNeighborRegressor -->
+<g id="node93" class="node">
+<title>KNeighborRegressor</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="910.94,-688.5 910.94,-708.5 1011.92,-708.5 1011.92,-688.5 910.94,-688.5"/>
+<text text-anchor="middle" x="961.43" y="-695.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">KNeighborRegressor</text>
+</g>
+<!-- neighbours&#45;&gt;KNeighborRegressor -->
+<g id="edge92" class="edge">
+<title>neighbours-&gt;KNeighborRegressor</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M839.16,-712.75C860.86,-710.2 887.79,-707.04 910.76,-704.34" stroke-width="2"/>
+</g>
+<!-- RadiusNeighborClassifier -->
+<g id="node94" class="node">
+<title>RadiusNeighborClassifier</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="901.49,-649.5 901.49,-669.5 1021.36,-669.5 1021.36,-649.5 901.49,-649.5"/>
+<text text-anchor="middle" x="961.43" y="-656.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">RadiusNeighborClassifier</text>
+</g>
+<!-- neighbours&#45;&gt;RadiusNeighborClassifier -->
+<g id="edge93" class="edge">
+<title>neighbours-&gt;RadiusNeighborClassifier</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M839.42,-704.61C847.82,-701.76 856.57,-698.64 864.66,-695.5 880.98,-689.16 884.34,-685.84 900.66,-679.5 909.63,-676.01 919.5,-672.56 928.59,-669.53" stroke-width="2"/>
+</g>
+<!-- RadiusNeighborRegressor -->
+<g id="node95" class="node">
+<title>RadiusNeighborRegressor</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="900.66,-610.5 900.66,-630.5 1022.19,-630.5 1022.19,-610.5 900.66,-610.5"/>
+<text text-anchor="middle" x="961.43" y="-617.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">RadiusNeighborRegressor</text>
+</g>
+<!-- neighbours&#45;&gt;RadiusNeighborRegressor -->
+<g id="edge94" class="edge">
+<title>neighbours-&gt;RadiusNeighborRegressor</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M839.24,-708.71C848.19,-705.53 857.21,-701.24 864.66,-695.5 887.79,-677.66 877.53,-658.34 900.66,-640.5 905.94,-636.42 912.1,-633.15 918.42,-630.54" stroke-width="2"/>
+</g>
+<!-- TransformedTargetRegressor -->
+<g id="node97" class="node">
+<title>TransformedTargetRegressor</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="730.93,-665.5 730.93,-685.5 864.66,-685.5 864.66,-665.5 730.93,-665.5"/>
+<text text-anchor="middle" x="797.79" y="-672.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">TransformedTargetRegressor</text>
+</g>
+<!-- compose&#45;&gt;TransformedTargetRegressor -->
+<g id="edge96" class="edge">
+<title>compose-&gt;TransformedTargetRegressor</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M662.94,-629.6C682.12,-637.85 707.76,-648.44 730.93,-656.5 740.03,-659.67 749.97,-662.74 759.3,-665.45" stroke-width="2"/>
+</g>
+<!-- ColumnTransformer -->
+<g id="node98" class="node">
+<title>ColumnTransformer</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="748.69,-626.5 748.69,-646.5 846.89,-646.5 846.89,-626.5 748.69,-626.5"/>
+<text text-anchor="middle" x="797.79" y="-633.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">ColumnTransformer</text>
+</g>
+<!-- compose&#45;&gt;ColumnTransformer -->
+<g id="edge97" class="edge">
+<title>compose-&gt;ColumnTransformer</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M667.24,-620.64C690.7,-623.52 722.3,-627.38 748.41,-630.58" stroke-width="2"/>
+</g>
+<!-- make_column_transformer -->
+<g id="node99" class="node">
+<title>make_column_transformer</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="735.65,-587.5 735.65,-607.5 859.94,-607.5 859.94,-587.5 735.65,-587.5"/>
+<text text-anchor="middle" x="797.79" y="-594.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">make_column_transformer</text>
+</g>
+<!-- compose&#45;&gt;make_column_transformer -->
+<g id="edge98" class="edge">
+<title>compose-&gt;make_column_transformer</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M667.24,-612.56C686.96,-610.27 712.43,-607.31 735.56,-604.62" stroke-width="2"/>
+</g>
+<!-- make_column_selector -->
+<g id="node100" class="node">
+<title>make_column_selector</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="743.42,-548.5 743.42,-568.5 852.17,-568.5 852.17,-548.5 743.42,-548.5"/>
+<text text-anchor="middle" x="797.79" y="-555.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">make_column_selector</text>
+</g>
+<!-- compose&#45;&gt;make_column_selector -->
+<g id="edge99" class="edge">
+<title>compose-&gt;make_column_selector</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M665.22,-603.38C684.17,-595.76 708.77,-586.17 730.93,-578.5 740.87,-575.06 751.76,-571.62 761.77,-568.59" stroke-width="2"/>
+</g>
+<!-- DecisionTreeRegressor -->
+<g id="node102" class="node">
+<title>DecisionTreeRegressor</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="742.87,-509.5 742.87,-529.5 852.72,-529.5 852.72,-509.5 742.87,-509.5"/>
+<text text-anchor="middle" x="797.79" y="-516.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">DecisionTreeRegressor</text>
+</g>
+<!-- tree&#45;&gt;DecisionTreeRegressor -->
+<g id="edge101" class="edge">
+<title>tree-&gt;DecisionTreeRegressor</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M659.63,-502.71C682.01,-505.45 714.89,-509.48 742.85,-512.9" stroke-width="2"/>
+</g>
+<!-- DecisionTreeClassifier -->
+<g id="node103" class="node">
+<title>DecisionTreeClassifier</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="743.7,-470.5 743.7,-490.5 851.89,-490.5 851.89,-470.5 743.7,-470.5"/>
+<text text-anchor="middle" x="797.79" y="-477.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">DecisionTreeClassifier</text>
+</g>
+<!-- tree&#45;&gt;DecisionTreeClassifier -->
+<g id="edge102" class="edge">
+<title>tree-&gt;DecisionTreeClassifier</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M659.63,-496.45C682.19,-493.82 715.42,-489.96 743.52,-486.69" stroke-width="2"/>
+</g>
+<!-- export_text -->
+<g id="node104" class="node">
+<title>export_text</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="767.02,-431.5 767.02,-451.5 828.56,-451.5 828.56,-431.5 767.02,-431.5"/>
+<text text-anchor="middle" x="797.79" y="-438.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">export_text</text>
+</g>
+<!-- tree&#45;&gt;export_text -->
+<g id="edge103" class="edge">
+<title>tree-&gt;export_text</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M659.67,-488.63C679.19,-480.71 706.54,-469.94 730.93,-461.5 742.56,-457.47 755.49,-453.45 766.8,-450.08" stroke-width="2"/>
+</g>
+<!-- PCA -->
+<g id="node106" class="node">
+<title>PCA</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="770.79,-392.5 770.79,-412.5 824.79,-412.5 824.79,-392.5 770.79,-392.5"/>
+<text text-anchor="middle" x="797.79" y="-399.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">PCA</text>
+</g>
+<!-- decomposition&#45;&gt;PCA -->
+<g id="edge105" class="edge">
+<title>decomposition-&gt;PCA</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M678.03,-437.38C707.7,-428.67 745.65,-417.52 770.56,-410.21" stroke-width="2"/>
+</g>
+<!-- ModelSelection -->
+<g id="node108" class="node">
+<title>ModelSelection</title>
+<path fill="rgb(0, 0, 255)" stroke="black" stroke-width="0" d="M750.97,-347.5C750.97,-347.5 844.62,-347.5 844.62,-347.5 848.95,-347.5 853.28,-351.83 853.28,-356.17 853.28,-356.17 853.28,-364.83 853.28,-364.83 853.28,-369.17 848.95,-373.5 844.62,-373.5 844.62,-373.5 750.97,-373.5 750.97,-373.5 746.64,-373.5 742.3,-369.17 742.3,-364.83 742.3,-364.83 742.3,-356.17 742.3,-356.17 742.3,-351.83 746.64,-347.5 750.97,-347.5"/>
+<text text-anchor="middle" x="797.79" y="-356" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="rgb(238, 238, 238)">ModelSelection</text>
+</g>
+<!-- n123&#45;&gt;ModelSelection -->
+<g id="edge107" class="edge">
+<title>n123-&gt;ModelSelection</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M641.26,-400.47C659.94,-395.67 708.18,-383.28 746.02,-373.55" stroke-width="2"/>
+</g>
+<!-- validation_curve -->
+<g id="node109" class="node">
+<title>validation_curve</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="919.83,-571.5 919.83,-591.5 1003.02,-591.5 1003.02,-571.5 919.83,-571.5"/>
+<text text-anchor="middle" x="961.43" y="-578.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">validation_curve</text>
+</g>
+<!-- ModelSelection&#45;&gt;validation_curve -->
+<g id="edge108" class="edge">
+<title>ModelSelection-&gt;validation_curve</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M852.6,-373.62C857.11,-376.32 861.24,-379.57 864.66,-383.5 917.96,-444.69 846.5,-502.07 900.66,-562.5 905.74,-568.18 912.52,-572.17 919.68,-574.97" stroke-width="2"/>
+</g>
+<!-- learning_curve -->
+<g id="node110" class="node">
+<title>learning_curve</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="923.44,-532.5 923.44,-552.5 999.41,-552.5 999.41,-532.5 923.44,-532.5"/>
+<text text-anchor="middle" x="961.43" y="-539.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">learning_curve</text>
+</g>
+<!-- ModelSelection&#45;&gt;learning_curve -->
+<g id="edge109" class="edge">
+<title>ModelSelection-&gt;learning_curve</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M852.07,-373.62C856.74,-376.32 861.05,-379.58 864.66,-383.5 908.13,-430.8 856.52,-476.81 900.66,-523.5 906.72,-529.91 914.93,-534.16 923.32,-536.99" stroke-width="2"/>
+</g>
+<!-- cross_val_score -->
+<g id="node111" class="node">
+<title>cross_val_score</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="921.49,-493.5 921.49,-513.5 1001.36,-513.5 1001.36,-493.5 921.49,-493.5"/>
+<text text-anchor="middle" x="961.43" y="-500.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">cross_val_score</text>
+</g>
+<!-- ModelSelection&#45;&gt;cross_val_score -->
+<g id="edge110" class="edge">
+<title>ModelSelection-&gt;cross_val_score</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M851.06,-373.61C856.05,-376.31 860.71,-379.57 864.66,-383.5 898.46,-417.09 866.38,-451.39 900.66,-484.5 906.37,-490.02 913.69,-493.94 921.23,-496.72" stroke-width="2"/>
+</g>
+<!-- cross_val_predict -->
+<g id="node112" class="node">
+<title>cross_val_predict</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="918.16,-454.5 918.16,-474.5 1004.69,-474.5 1004.69,-454.5 918.16,-454.5"/>
+<text text-anchor="middle" x="961.43" y="-461.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">cross_val_predict</text>
+</g>
+<!-- ModelSelection&#45;&gt;cross_val_predict -->
+<g id="edge111" class="edge">
+<title>ModelSelection-&gt;cross_val_predict</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M848.69,-373.56C854.42,-376.29 859.9,-379.57 864.66,-383.5 889.23,-403.79 875.81,-425.56 900.66,-445.5 905.75,-449.59 911.74,-452.8 917.93,-455.33" stroke-width="2"/>
+</g>
+<!-- cross_validate -->
+<g id="node113" class="node">
+<title>cross_validate</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="924.83,-415.5 924.83,-435.5 998.03,-435.5 998.03,-415.5 924.83,-415.5"/>
+<text text-anchor="middle" x="961.43" y="-422.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">cross_validate</text>
+</g>
+<!-- ModelSelection&#45;&gt;cross_validate -->
+<g id="edge112" class="edge">
+<title>ModelSelection-&gt;cross_validate</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M840.85,-373.54C848.89,-376.49 857.14,-379.85 864.66,-383.5 881.74,-391.8 883.46,-398.44 900.66,-406.5 908.25,-410.06 916.68,-413.19 924.76,-415.84" stroke-width="2"/>
+</g>
+<!-- RandomizedSearchCV -->
+<g id="node114" class="node">
+<title>RandomizedSearchCV</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="907.61,-376.5 907.61,-396.5 1015.25,-396.5 1015.25,-376.5 907.61,-376.5"/>
+<text text-anchor="middle" x="961.43" y="-383.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">RandomizedSearchCV</text>
+</g>
+<!-- ModelSelection&#45;&gt;RandomizedSearchCV -->
+<g id="edge113" class="edge">
+<title>ModelSelection-&gt;RandomizedSearchCV</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M853.51,-369.3C870.92,-372.1 890.12,-375.19 907.4,-377.97" stroke-width="2"/>
+</g>
+<!-- GridSearchCV -->
+<g id="node115" class="node">
+<title>GridSearchCV</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="923.71,-337.5 923.71,-357.5 999.14,-357.5 999.14,-337.5 923.71,-337.5"/>
+<text text-anchor="middle" x="961.43" y="-344.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">GridSearchCV</text>
+</g>
+<!-- ModelSelection&#45;&gt;GridSearchCV -->
+<g id="edge114" class="edge">
+<title>ModelSelection-&gt;GridSearchCV</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M853.51,-356.1C876.59,-354.24 902.85,-352.13 923.57,-350.46" stroke-width="2"/>
+</g>
+<!-- train_test_split -->
+<g id="node116" class="node">
+<title>train_test_split</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="923.71,-298.5 923.71,-318.5 999.15,-318.5 999.15,-298.5 923.71,-298.5"/>
+<text text-anchor="middle" x="961.43" y="-305.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">train_test_split</text>
+</g>
+<!-- ModelSelection&#45;&gt;train_test_split -->
+<g id="edge115" class="edge">
+<title>ModelSelection-&gt;train_test_split</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M839.58,-347.38C867.36,-338.44 903.57,-326.79 929.09,-318.58" stroke-width="2"/>
+</g>
+<!-- StratifiedShuffleSplit -->
+<g id="node117" class="node">
+<title>StratifiedShuffleSplit</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="910.65,-259.5 910.65,-279.5 1012.2,-279.5 1012.2,-259.5 910.65,-259.5"/>
+<text text-anchor="middle" x="961.43" y="-266.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">StratifiedShuffleSplit</text>
+</g>
+<!-- ModelSelection&#45;&gt;StratifiedShuffleSplit -->
+<g id="edge116" class="edge">
+<title>ModelSelection-&gt;StratifiedShuffleSplit</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M848.98,-347.43C854.52,-344.93 859.88,-341.98 864.66,-338.5 886.5,-322.58 878.82,-305.42 900.66,-289.5 906.23,-285.44 912.68,-282.16 919.23,-279.54" stroke-width="2"/>
+</g>
+<!-- StratifiedKFold -->
+<g id="node118" class="node">
+<title>StratifiedKFold</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="922.04,-220.5 922.04,-240.5 1000.81,-240.5 1000.81,-220.5 922.04,-220.5"/>
+<text text-anchor="middle" x="961.43" y="-227.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">StratifiedKFold</text>
+</g>
+<!-- ModelSelection&#45;&gt;StratifiedKFold -->
+<g id="edge117" class="edge">
+<title>ModelSelection-&gt;StratifiedKFold</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M852.17,-347.34C856.7,-344.88 860.96,-341.96 864.66,-338.5 895.51,-309.62 869.82,-279.39 900.66,-250.5 906.65,-244.89 914.26,-240.85 922.02,-237.94" stroke-width="2"/>
+</g>
+<!-- ShuffleSplit -->
+<g id="node119" class="node">
+<title>ShuffleSplit</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="929.26,-181.5 929.26,-201.5 993.59,-201.5 993.59,-181.5 929.26,-181.5"/>
+<text text-anchor="middle" x="961.43" y="-188.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">ShuffleSplit</text>
+</g>
+<!-- ModelSelection&#45;&gt;ShuffleSplit -->
+<g id="edge118" class="edge">
+<title>ModelSelection-&gt;ShuffleSplit</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M853.22,-347.39C857.43,-344.92 861.33,-341.99 864.66,-338.5 905.17,-296.07 860.15,-253.94 900.66,-211.5 908.14,-203.66 918.77,-198.9 929,-196" stroke-width="2"/>
+</g>
+<!-- LeaveOneOut -->
+<g id="node120" class="node">
+<title>LeaveOneOut</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="925.38,-142.5 925.38,-162.5 997.47,-162.5 997.47,-142.5 925.38,-142.5"/>
+<text text-anchor="middle" x="961.43" y="-149.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">LeaveOneOut</text>
+</g>
+<!-- ModelSelection&#45;&gt;LeaveOneOut -->
+<g id="edge119" class="edge">
+<title>ModelSelection-&gt;LeaveOneOut</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M853.46,-347.61C857.62,-345.1 861.44,-342.09 864.66,-338.5 915.06,-282.29 850.27,-228.72 900.66,-172.5 907.08,-165.33 916.15,-160.73 925.29,-157.77" stroke-width="2"/>
+</g>
+<!-- RepeatedKFold -->
+<g id="node121" class="node">
+<title>RepeatedKFold</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="922.04,-103.5 922.04,-123.5 1000.81,-123.5 1000.81,-103.5 922.04,-103.5"/>
+<text text-anchor="middle" x="961.43" y="-110.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">RepeatedKFold</text>
+</g>
+<!-- ModelSelection&#45;&gt;RepeatedKFold -->
+<g id="edge120" class="edge">
+<title>ModelSelection-&gt;RepeatedKFold</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M853.3,-347.94C857.55,-345.35 861.43,-342.24 864.66,-338.5 925.04,-268.42 840.3,-203.6 900.66,-133.5 906.23,-127.03 913.95,-122.65 922,-119.68" stroke-width="2"/>
+</g>
+<!-- KFold -->
+<g id="node122" class="node">
+<title>KFold</title>
+<polygon fill="blue" stroke="black" stroke-width="0" points="934.43,-64.5 934.43,-84.5 988.43,-84.5 988.43,-64.5 934.43,-64.5"/>
+<text text-anchor="middle" x="961.43" y="-71.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(238, 238, 238)">KFold</text>
+</g>
+<!-- ModelSelection&#45;&gt;KFold -->
+<g id="edge121" class="edge">
+<title>ModelSelection-&gt;KFold</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M853.41,-348.03C857.64,-345.43 861.48,-342.29 864.66,-338.5 935.06,-254.48 830.28,-178.54 900.66,-94.5 908.95,-84.6 922.29,-79.58 934.27,-77.04" stroke-width="2"/>
+</g>
+<!-- KMeans -->
+<g id="node124" class="node">
+<title>KMeans</title>
+<polygon fill="#60f666" fill-opacity="0.627451" stroke="black" stroke-width="0" points="770.79,-308.5 770.79,-328.5 824.79,-328.5 824.79,-308.5 770.79,-308.5"/>
+<text text-anchor="middle" x="797.79" y="-315.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(75, 0, 130)">KMeans</text>
+</g>
+<!-- cluster&#45;&gt;KMeans -->
+<g id="edge123" class="edge">
+<title>cluster-&gt;KMeans</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M660.73,-342.65C691.35,-337.21 740.61,-328.47 770.7,-323.13" stroke-width="2"/>
+</g>
+<!-- load_ -->
+<g id="node126" class="node">
+<title>load_</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="770.79,-269.5 770.79,-289.5 824.79,-289.5 824.79,-269.5 770.79,-269.5"/>
+<text text-anchor="middle" x="797.79" y="-276.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">load_</text>
+</g>
+<!-- datasets&#45;&gt;load_ -->
+<g id="edge125" class="edge">
+<title>datasets-&gt;load_</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M664.5,-279.5C695.24,-279.5 741.74,-279.5 770.64,-279.5" stroke-width="2"/>
+</g>
+<!-- fetch_ -->
+<g id="node127" class="node">
+<title>fetch_</title>
+<polygon fill="red" stroke="black" stroke-width="0" points="770.79,-230.5 770.79,-250.5 824.79,-250.5 824.79,-230.5 770.79,-230.5"/>
+<text text-anchor="middle" x="797.79" y="-237.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00" fill="rgb(255, 255, 0)">fetch_</text>
+</g>
+<!-- datasets&#45;&gt;fetch_ -->
+<g id="edge126" class="edge">
+<title>datasets-&gt;fetch_</title>
+<path fill="none" stroke="rgb(176, 176, 187)" d="M664.5,-272.07C695.24,-264.74 741.74,-253.64 770.64,-246.74" stroke-width="2"/>
+</g>
+</g>
+</svg>
