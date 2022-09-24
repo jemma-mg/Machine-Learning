@@ -91,5 +91,5 @@ def loss(features, labels, weights):
 # K-Means Clustering
 
 
-# ANN
+# ANN - Artificial Neural Networks
 # MLP - Multi Layer Perceptron
